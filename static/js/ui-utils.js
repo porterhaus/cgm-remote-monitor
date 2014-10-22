@@ -1,5 +1,5 @@
 var drawerIsOpen = false;
-var treatmentDrawerIsOpen = true;
+var treatmentDrawerIsOpen = false;
 var browserStorage = $.localStorage;
 var defaultSettings = {
 	"units": "mg/dl",
